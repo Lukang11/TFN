@@ -1,0 +1,17 @@
+[
+    {
+        "name":"Mozilla Firefox",
+        "imgUrl":"url",
+        "description":"description"
+    },
+    {
+        "name":"Mozilla Firefox",
+        "imgUrl":"url",
+        "description":"description"},
+
+    {
+        "name":"Mozilla Firefox",
+        "imgUrl":"url",
+        "description":"description"
+    }
+]

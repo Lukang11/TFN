@@ -1,0 +1,32 @@
+$color: rgb(4, 255, 255);
+$font_family: "Times"; 
+
+section{
+  border: 1px solid;
+  margin: 10px;
+}
+ul li{
+  display: inline;
+  margin: 5px;
+  background-color: rgb(222, 238, 247);
+}
+footer{
+  font-family: $font_family;
+  width: 100%;
+  background-color: $color;
+}
+h2{
+  text-align: center;
+}
+body{
+  background-color: aliceblue;
+}
+.class0{
+  background-color: rgb(238, 122, 40);
+}
+.class1{
+ background-color: aquamarine;
+}
+.class2{
+  background-color: rgb(58, 186, 236);
+}
